@@ -1,16 +1,12 @@
-# counter_demo
+# Contador Demo
 
-A new Flutter project.
+Proyecto de Flutter de un ejemplo de contador básico
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proyecto de contador básico con lo siguiente:
+- Aumentar en 1 el contador
+- Restar en 1 el contador
+- Resetear contador
+- Validación de no restar cuando llegue a '0'
+- Mostrar diálogo de alerta cuando se intenta restar a '0'
